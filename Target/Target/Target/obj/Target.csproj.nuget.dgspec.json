@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Rich\\Desktop\\Projects\\Target\\Target\\Target\\Target.csproj": {}
+    "C:\\Users\\RichW\\Desktop\\Projects\\TargetTrack\\Target\\Target\\Target\\Target.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Rich\\Desktop\\Projects\\Target\\Target\\Target\\Target.csproj": {
+    "C:\\Users\\RichW\\Desktop\\Projects\\TargetTrack\\Target\\Target\\Target\\Target.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Rich\\Desktop\\Projects\\Target\\Target\\Target\\Target.csproj",
+        "projectUniqueName": "C:\\Users\\RichW\\Desktop\\Projects\\TargetTrack\\Target\\Target\\Target\\Target.csproj",
         "projectName": "Target",
-        "projectPath": "C:\\Users\\Rich\\Desktop\\Projects\\Target\\Target\\Target\\Target.csproj",
-        "packagesPath": "C:\\Users\\Rich\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Rich\\Desktop\\Projects\\Target\\Target\\Target\\obj\\",
+        "projectPath": "C:\\Users\\RichW\\Desktop\\Projects\\TargetTrack\\Target\\Target\\Target\\Target.csproj",
+        "packagesPath": "C:\\Users\\RichW\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\RichW\\Desktop\\Projects\\TargetTrack\\Target\\Target\\Target\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
-          "C:\\Users\\Rich\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\RichW\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
@@ -49,6 +49,10 @@
               "target": "Package",
               "version": "[2.0.3, )",
               "autoReferenced": true
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[12.0.3, )"
             },
             "Xamarin.Essentials": {
               "target": "Package",

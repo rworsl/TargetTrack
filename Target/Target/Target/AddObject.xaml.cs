@@ -17,9 +17,18 @@ namespace Target
             InitializeComponent();
         }
 
-        private async void Confirm_Clicked(object sender, EventArgs e)
+        private void createGoal()
         {
-            await this.Navigation.PopAsync();
+            var name = GName.Text;
+            var target = Int32.Parse(GTarget.Text);
+            new NewObject(name, target, 0);
+        }
+
+        private void Confirm_Clicked(object sender, EventArgs e)
+        {
+            createGoal();
+            App.Current.MainPage = new MainPage();
+
         }
 
         private void Button_Clicked(object sender, EventArgs e)

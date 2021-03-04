@@ -5,9 +5,9 @@
 
     <!-- Layout children vertically -->
     <StackLayout Margin="20">
-        <Entry Text="Goal name"
+        <Entry Text="Goal name" x:Name="GName"
                 HeightRequest="100" />
-        <Entry Text="Goal amount"
+        <Entry Text="Goal amount" x:Name="GTarget"
                 HeightRequest="100" 
                 Keyboard="Numeric"/>
 

@@ -1,12 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "8HeUiONP/u6k7uhF+bwhMvhoqUw/hI4iQoN+zxm9VsEsoENmwzwOhQSR7KZRd5FTt8jqdLogzuh+MJFcuoDg5w==",
+  "dgSpecHash": "YpfzGqFEejeR2pBvlpvyQtCNqYMSSsu5MXRvD+a/F0ewXV2Ew5U5HeSXVagDSHdpShdxNjtEj7aGxi45ibyRKQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Rich\\Desktop\\Projects\\Target\\Target\\Target\\Target.csproj",
+  "projectFilePath": "C:\\Users\\RichW\\Desktop\\Projects\\TargetTrack\\Target\\Target\\Target\\Target.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\Rich\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
-    "C:\\Users\\Rich\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
-    "C:\\Users\\Rich\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\RichW\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\RichW\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\RichW\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\RichW\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
     "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.5.3.2\\xamarin.essentials.1.5.3.2.nupkg.sha512",
     "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\4.8.0.1451\\xamarin.forms.4.8.0.1451.nupkg.sha512"
   ],
