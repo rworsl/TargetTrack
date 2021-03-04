@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Target.AddObject">
+
+    <!-- Layout children vertically -->
+    <StackLayout Margin="20">
+        <Entry Text="Goal name"
+                HeightRequest="100" />
+        <Entry Text="Goal amount"
+                HeightRequest="100" 
+                Keyboard="Numeric"/>
+
+        <!-- Layout children in two columns -->
+        <Grid ColumnDefinitions="*,*">
+            <Button Text="Save"
+                    Clicked="Confirm_Clicked" 
+                    CornerRadius="20"/>
+            <Button Grid.Column="1"
+                    Text="Cancel"
+                    Clicked="Button_Clicked"
+                    CornerRadius="20"/>
+        </Grid>
+    </StackLayout>
+</ContentPage>
