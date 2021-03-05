@@ -18,10 +18,12 @@ namespace Target
             Name = GoalName;
             Target = GoalTarget;
             Saved = GoalSaved;
+            saveToFile();
         }
 
         private void saveToFile()
         {
+            var stream = Application.Current.Resources. .Context.Assets.Open("wordList.txt");
             List<string> _data = new List<string>();
             _data.Add(Name);
             _data.Add(Target.ToString()); 
@@ -30,10 +32,14 @@ namespace Target
 
             string filename = "Targets.txt";
 
+            var sdCardPath = Android.OS.Environment.ExternalStorageDirectory.Path;
+            var fileAddress = System.IO.Path.Combine(sdCardPath, "iootext.txt");
+
+            //string fileAddress = Application.Current.Resources + "." + filename;
             string json = JsonConvert.SerializeObject(_data.ToArray(), Formatting.Indented);
 
             //write string to file
-            System.IO.File.WriteAllText(Android.App.Application.Context.Assets + filename, json);
+            System.IO.File.WriteAllText(fileAddress, json);
         
         
         }

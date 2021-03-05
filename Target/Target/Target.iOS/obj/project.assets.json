@@ -1052,24 +1052,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\RichW\\.nuget\\packages\\": {},
+    "C:\\Users\\Rich\\.nuget\\packages\\": {},
     "C:\\Microsoft\\Xamarin\\NuGet\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\RichW\\Desktop\\Projects\\TargetTrack\\Target\\Target\\Target.iOS\\Target.iOS.csproj",
+      "projectUniqueName": "C:\\Users\\Rich\\Desktop\\Projects\\TargetTrack\\Target\\Target\\Target.iOS\\Target.iOS.csproj",
       "projectName": "Target.iOS",
-      "projectPath": "C:\\Users\\RichW\\Desktop\\Projects\\TargetTrack\\Target\\Target\\Target.iOS\\Target.iOS.csproj",
-      "packagesPath": "C:\\Users\\RichW\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\RichW\\Desktop\\Projects\\TargetTrack\\Target\\Target\\Target.iOS\\obj\\",
+      "projectPath": "C:\\Users\\Rich\\Desktop\\Projects\\TargetTrack\\Target\\Target\\Target.iOS\\Target.iOS.csproj",
+      "packagesPath": "C:\\Users\\Rich\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Rich\\Desktop\\Projects\\TargetTrack\\Target\\Target\\Target.iOS\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"
       ],
       "configFilePaths": [
-        "C:\\Users\\RichW\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Rich\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
@@ -1083,8 +1083,8 @@
       "frameworks": {
         "xamarinios10": {
           "projectReferences": {
-            "C:\\Users\\RichW\\Desktop\\Projects\\TargetTrack\\Target\\Target\\Target\\Target.csproj": {
-              "projectPath": "C:\\Users\\RichW\\Desktop\\Projects\\TargetTrack\\Target\\Target\\Target\\Target.csproj"
+            "C:\\Users\\Rich\\Desktop\\Projects\\TargetTrack\\Target\\Target\\Target\\Target.csproj": {
+              "projectPath": "C:\\Users\\Rich\\Desktop\\Projects\\TargetTrack\\Target\\Target\\Target\\Target.csproj"
             }
           }
         }
