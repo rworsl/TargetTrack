@@ -42,3 +42,4 @@ C:\Users\Rich\Desktop\Projects\TargetTrack\Target\Target\Target\bin\Debug\netsta
 C:\Users\Rich\Desktop\Projects\TargetTrack\Target\Target\Target\bin\Debug\netstandard2.0\ref\Target.dll
 C:\Users\Rich\Desktop\Projects\TargetTrack\Target\Target\Target\bin\Debug\netstandard2.0\Target.pdb
 C:\Users\Rich\Desktop\Projects\TargetTrack\Target\Target\Target\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Rich\Desktop\Projects\TargetTrack\Target\Target\Target\obj\Debug\netstandard2.0\Target.csprojAssemblyReference.cache

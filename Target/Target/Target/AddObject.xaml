@@ -6,10 +6,12 @@
     <!-- Layout children vertically -->
     <StackLayout Margin="20">
         <Entry Text="Goal name" x:Name="GName"
-                HeightRequest="100" />
+               HeightRequest="100"
+               Focused="Handle_Focused"/>
         <Entry Text="Goal amount" x:Name="GTarget"
-                HeightRequest="100" 
-                Keyboard="Numeric"/>
+               HeightRequest="100" 
+               Keyboard="Numeric"
+               Focused="Handle_Focused" />
 
         <!-- Layout children in two columns -->
         <Grid ColumnDefinitions="*,*">

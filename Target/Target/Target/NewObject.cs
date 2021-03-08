@@ -18,30 +18,26 @@ namespace Target
             Name = GoalName;
             Target = GoalTarget;
             Saved = GoalSaved;
-            saveToFile();
+            saveToFileAsync();
         }
 
-        private void saveToFile()
+        private async System.Threading.Tasks.Task saveToFileAsync()
         {
-            var stream = Application.Current.Resources. .Context.Assets.Open("wordList.txt");
             List<string> _data = new List<string>();
             _data.Add(Name);
-            _data.Add(Target.ToString()); 
+            _data.Add(Target.ToString());
             _data.Add(Saved.ToString());
 
-
-            string filename = "Targets.txt";
-
-            var sdCardPath = Android.OS.Environment.ExternalStorageDirectory.Path;
-            var fileAddress = System.IO.Path.Combine(sdCardPath, "iootext.txt");
-
-            //string fileAddress = Application.Current.Resources + "." + filename;
-            string json = JsonConvert.SerializeObject(_data.ToArray(), Formatting.Indented);
-
-            //write string to file
-            System.IO.File.WriteAllText(fileAddress, json);
-        
-        
+            var backingFile = Path.Combine(System.Environment.GetFolderPath(System.Environment.SpecialFolder.Personal), "Targets.txt");
+            using (var writer = File.CreateText(backingFile))
+            {
+                string json = JsonConvert.SerializeObject(_data.ToArray(), Formatting.Indented);
+                await writer.WriteLineAsync(json);
+            }
+            if (File.Exists(backingFile))
+            {
+                Console.WriteLine("The file location is: " + backingFile.ToString());
+            }
         }
     }
 }

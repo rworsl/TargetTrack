@@ -31,6 +31,10 @@ namespace Target
 
         }
 
+        private void Handle_Focused(object sender, EventArgs e)
+        {
+            ((Entry)sender).Text = string.Empty;
+        }
         private void Button_Clicked(object sender, EventArgs e)
         {
             App.Current.MainPage = new MainPage();
