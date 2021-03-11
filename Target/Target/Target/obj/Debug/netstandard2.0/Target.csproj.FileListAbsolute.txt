@@ -17,7 +17,6 @@ C:\Users\RichW\Desktop\Projects\TargetTrack\Target\Target\Target\bin\Debug\netst
 C:\Users\RichW\Desktop\Projects\TargetTrack\Target\Target\Target\bin\Debug\netstandard2.0\Target.dll
 C:\Users\RichW\Desktop\Projects\TargetTrack\Target\Target\Target\bin\Debug\netstandard2.0\ref\Target.dll
 C:\Users\RichW\Desktop\Projects\TargetTrack\Target\Target\Target\bin\Debug\netstandard2.0\Target.pdb
-C:\Users\RichW\Desktop\Projects\TargetTrack\Target\Target\Target\obj\Debug\netstandard2.0\Target.csprojAssemblyReference.cache
 C:\Users\RichW\Desktop\Projects\TargetTrack\Target\Target\Target\obj\Debug\netstandard2.0\AddObject.xaml.g.cs
 C:\Users\RichW\Desktop\Projects\TargetTrack\Target\Target\Target\obj\Debug\netstandard2.0\App.xaml.g.cs
 C:\Users\RichW\Desktop\Projects\TargetTrack\Target\Target\Target\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
@@ -43,3 +42,4 @@ C:\Users\Rich\Desktop\Projects\TargetTrack\Target\Target\Target\bin\Debug\netsta
 C:\Users\Rich\Desktop\Projects\TargetTrack\Target\Target\Target\bin\Debug\netstandard2.0\Target.pdb
 C:\Users\Rich\Desktop\Projects\TargetTrack\Target\Target\Target\obj\Debug\netstandard2.0\XamlC.stamp
 C:\Users\Rich\Desktop\Projects\TargetTrack\Target\Target\Target\obj\Debug\netstandard2.0\Target.csprojAssemblyReference.cache
+C:\Users\RichW\Desktop\Projects\TargetTrack\Target\Target\Target\obj\Debug\netstandard2.0\TargetContent.xaml.g.cs

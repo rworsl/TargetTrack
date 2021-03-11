@@ -8,17 +8,17 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-[assembly: global::Xamarin.Forms.Xaml.XamlResourceIdAttribute("Target.Page1.xaml", "Page1.xaml", typeof(global::Target.Page1))]
+[assembly: global::Xamarin.Forms.Xaml.XamlResourceIdAttribute("Target.Page1.xaml", "Page1.xaml", typeof(global::Target.TargetContent))]
 
 namespace Target {
     
     
     [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("Page1.xaml")]
-    public partial class Page1 : global::Xamarin.Forms.ContentPage {
+    public partial class TargetContent : global::Xamarin.Forms.ContentPage {
         
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "2.0.0.0")]
         private void InitializeComponent() {
-            global::Xamarin.Forms.Xaml.Extensions.LoadFromXaml(this, typeof(Page1));
+            global::Xamarin.Forms.Xaml.Extensions.LoadFromXaml(this, typeof(TargetContent));
         }
     }
 }

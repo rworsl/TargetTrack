@@ -1,24 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Rich\\Desktop\\Projects\\TargetTrack\\Target\\Target\\Target.iOS\\Target.iOS.csproj": {}
+    "C:\\Users\\RichW\\Desktop\\Projects\\TargetTrack\\Target\\Target\\Target.iOS\\Target.iOS.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Rich\\Desktop\\Projects\\TargetTrack\\Target\\Target\\Target.iOS\\Target.iOS.csproj": {
+    "C:\\Users\\RichW\\Desktop\\Projects\\TargetTrack\\Target\\Target\\Target.iOS\\Target.iOS.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Rich\\Desktop\\Projects\\TargetTrack\\Target\\Target\\Target.iOS\\Target.iOS.csproj",
+        "projectUniqueName": "C:\\Users\\RichW\\Desktop\\Projects\\TargetTrack\\Target\\Target\\Target.iOS\\Target.iOS.csproj",
         "projectName": "Target.iOS",
-        "projectPath": "C:\\Users\\Rich\\Desktop\\Projects\\TargetTrack\\Target\\Target\\Target.iOS\\Target.iOS.csproj",
-        "packagesPath": "C:\\Users\\Rich\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Rich\\Desktop\\Projects\\TargetTrack\\Target\\Target\\Target.iOS\\obj\\",
+        "projectPath": "C:\\Users\\RichW\\Desktop\\Projects\\TargetTrack\\Target\\Target\\Target.iOS\\Target.iOS.csproj",
+        "packagesPath": "C:\\Users\\RichW\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\RichW\\Desktop\\Projects\\TargetTrack\\Target\\Target\\Target.iOS\\obj\\",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
-          "C:\\Users\\Rich\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\RichW\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
@@ -32,8 +32,8 @@
         "frameworks": {
           "xamarinios10": {
             "projectReferences": {
-              "C:\\Users\\Rich\\Desktop\\Projects\\TargetTrack\\Target\\Target\\Target\\Target.csproj": {
-                "projectPath": "C:\\Users\\Rich\\Desktop\\Projects\\TargetTrack\\Target\\Target\\Target\\Target.csproj"
+              "C:\\Users\\RichW\\Desktop\\Projects\\TargetTrack\\Target\\Target\\Target\\Target.csproj": {
+                "projectPath": "C:\\Users\\RichW\\Desktop\\Projects\\TargetTrack\\Target\\Target\\Target\\Target.csproj"
               }
             }
           }
@@ -65,20 +65,20 @@
         }
       }
     },
-    "C:\\Users\\Rich\\Desktop\\Projects\\TargetTrack\\Target\\Target\\Target\\Target.csproj": {
+    "C:\\Users\\RichW\\Desktop\\Projects\\TargetTrack\\Target\\Target\\Target\\Target.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Rich\\Desktop\\Projects\\TargetTrack\\Target\\Target\\Target\\Target.csproj",
+        "projectUniqueName": "C:\\Users\\RichW\\Desktop\\Projects\\TargetTrack\\Target\\Target\\Target\\Target.csproj",
         "projectName": "Target",
-        "projectPath": "C:\\Users\\Rich\\Desktop\\Projects\\TargetTrack\\Target\\Target\\Target\\Target.csproj",
-        "packagesPath": "C:\\Users\\Rich\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Rich\\Desktop\\Projects\\TargetTrack\\Target\\Target\\Target\\obj\\",
+        "projectPath": "C:\\Users\\RichW\\Desktop\\Projects\\TargetTrack\\Target\\Target\\Target\\Target.csproj",
+        "packagesPath": "C:\\Users\\RichW\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\RichW\\Desktop\\Projects\\TargetTrack\\Target\\Target\\Target\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
-          "C:\\Users\\Rich\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\RichW\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],

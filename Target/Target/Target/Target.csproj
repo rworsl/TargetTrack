@@ -20,10 +20,16 @@
     <Compile Update="AddObject.xaml.cs">
       <DependentUpon>AddObject.xaml</DependentUpon>
     </Compile>
+    <Compile Update="TargetContent.xaml.cs">
+      <DependentUpon>TargetContent.xaml</DependentUpon>
+    </Compile>
   </ItemGroup>
 
   <ItemGroup>
     <EmbeddedResource Update="AddObject.xaml">
+      <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
+    </EmbeddedResource>
+    <EmbeddedResource Update="TargetContent.xaml">
       <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
     </EmbeddedResource>
   </ItemGroup>

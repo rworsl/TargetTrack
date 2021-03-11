@@ -13,10 +13,9 @@ namespace Target
         public MainPage()
         {
             InitializeComponent();
-            loadInObjects();
         }
 
-        private IList<string> readInObjects()
+/*        private IList<string> readInObjects()
         {
 
             var assembly = this.GetType().GetTypeInfo().Assembly;
@@ -30,16 +29,17 @@ namespace Target
                 return Data = JsonConvert.DeserializeObject<List<string>>(kJson);
             }
     }
-        private void loadInObjects()
-        {
-            readInObjects();
-        }
+*/
 
         private void Button_Clicked(object sender, System.EventArgs e)
         {
             App.Current.MainPage = new AddObject();
         }
 
+        private void AddMilestone(object sender, System.EventArgs e)
+        {
+            App.Current.MainPage = new TargetContent();
+        }
         
     }
 }

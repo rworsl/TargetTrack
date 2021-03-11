@@ -1974,24 +1974,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Rich\\.nuget\\packages\\": {},
+    "C:\\Users\\RichW\\.nuget\\packages\\": {},
     "C:\\Microsoft\\Xamarin\\NuGet\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Rich\\Desktop\\Projects\\TargetTrack\\Target\\Target\\Target.Android\\Target.Android.csproj",
+      "projectUniqueName": "C:\\Users\\RichW\\Desktop\\Projects\\TargetTrack\\Target\\Target\\Target.Android\\Target.Android.csproj",
       "projectName": "Target.Android",
-      "projectPath": "C:\\Users\\Rich\\Desktop\\Projects\\TargetTrack\\Target\\Target\\Target.Android\\Target.Android.csproj",
-      "packagesPath": "C:\\Users\\Rich\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Rich\\Desktop\\Projects\\TargetTrack\\Target\\Target\\Target.Android\\obj\\",
+      "projectPath": "C:\\Users\\RichW\\Desktop\\Projects\\TargetTrack\\Target\\Target\\Target.Android\\Target.Android.csproj",
+      "packagesPath": "C:\\Users\\RichW\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\RichW\\Desktop\\Projects\\TargetTrack\\Target\\Target\\Target.Android\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"
       ],
       "configFilePaths": [
-        "C:\\Users\\Rich\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\RichW\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
@@ -2005,8 +2005,8 @@
       "frameworks": {
         "monoandroid90": {
           "projectReferences": {
-            "C:\\Users\\Rich\\Desktop\\Projects\\TargetTrack\\Target\\Target\\Target\\Target.csproj": {
-              "projectPath": "C:\\Users\\Rich\\Desktop\\Projects\\TargetTrack\\Target\\Target\\Target\\Target.csproj"
+            "C:\\Users\\RichW\\Desktop\\Projects\\TargetTrack\\Target\\Target\\Target\\Target.csproj": {
+              "projectPath": "C:\\Users\\RichW\\Desktop\\Projects\\TargetTrack\\Target\\Target\\Target\\Target.csproj"
             }
           }
         }

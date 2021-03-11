@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "QNy2kbRAbYiDrMXxMifSOEucUr/0/nS2pNnfn6MdgGocDc1rUUrz3X6E+DZB9iscdl1uIqs577EChtStHEkLRQ==",
+  "dgSpecHash": "WruBhn9c9L7zGQrkNyXliYBU/sXN9gF03R4RBU+uFsC/nAkYTAcaX8kN/bjsMIzVRuDhb99R1CUAFm3IrHhS3g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Rich\\Desktop\\Projects\\TargetTrack\\Target\\Target\\Target.iOS\\Target.iOS.csproj",
+  "projectFilePath": "C:\\Users\\RichW\\Desktop\\Projects\\TargetTrack\\Target\\Target\\Target.iOS\\Target.iOS.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\Rich\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\RichW\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
     "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.5.3.2\\xamarin.essentials.1.5.3.2.nupkg.sha512",
     "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\4.8.0.1451\\xamarin.forms.4.8.0.1451.nupkg.sha512"
   ],
